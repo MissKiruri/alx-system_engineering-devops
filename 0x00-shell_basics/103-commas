@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m
+ls -al -m --indicator-style=slash -v -c
